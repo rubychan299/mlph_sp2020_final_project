@@ -11,7 +11,9 @@ There are 50 variables in the original dataset, we exclude the encounter ID, pat
 
 ## Analysis
 
-    All the analysis can be reproduced using `<analysis.r>`.Use `<final_project_code.html>` as the reference for the output and .pdf file contains the detailed results and discussion.
+    All the analysis can be reproduced using `<analysis.r>`.
+
+Use `<final_project_code.html>` as the reference for the output and .pdf file contains the detailed results and discussion.
 
 1. Feature Selection
 
