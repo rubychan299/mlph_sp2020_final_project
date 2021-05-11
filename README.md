@@ -17,7 +17,7 @@ Use `<final_project_code.html>` as the reference for the output and .pdf file co
 
 1. Feature Selection
 
-    Lasso Regression and Best Subset Selection were used for Feature selection for logistic regression
+    Lasso Regression and Best Subset Selection were used for feature selection for Logistic Regression
 
 2. Classification
  * Logistic Regression
